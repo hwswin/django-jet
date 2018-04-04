@@ -2,6 +2,8 @@
 Django JET
 ==========
 
+Django1.11.11使用用Django JET 1.0.5版本
+
 .. image:: https://travis-ci.org/geex-arts/django-jet.svg?branch=master
     :target: https://travis-ci.org/geex-arts/django-jet
 
